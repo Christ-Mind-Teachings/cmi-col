@@ -155,23 +155,23 @@ has been freely given to you, along with all that God is, which is everything.
 Now that you have opened your mind and heart to receive this truth—and we
 assure you that this is true—you can forever say to yourself in joy and truth:
 
-> Everything is mine. /
-> Mine is Heaven. /
-> Mine is the Earth. /
-> Mine is the night, mine the day. /
-> Mine are the crystal clear waters of the rivers and seas. /
-> Mine is the rain, mine the drought. /
-> Mine is the silence, mine the melodies. /
-> Everything is mine. /
-> Mine is the song of the birds, mine the lilies of the field. /
-> Mine is the wind, mine the stillness. /
-> Mine is wisdom, mine is ignorance. /
-> Mine is strength, mine is weakness. /
-> Mine are the saints, mine the sinners. /
-> Mine is beauty, mine is harmony. /
-> Everything is mine. /
-> Mine are the angels of God, mine is the Mother of God. /
-> God is mine and is everything to me, /
+> Everything is mine. \
+> Mine is Heaven. \
+> Mine is the Earth. \
+> Mine is the night, mine the day. \
+> Mine are the crystal clear waters of the rivers and seas. \
+> Mine is the rain, mine the drought. \
+> Mine is the silence, mine the melodies. \
+> Everything is mine. \
+> Mine is the song of the birds, mine the lilies of the field. \
+> Mine is the wind, mine the stillness. \
+> Mine is wisdom, mine is ignorance. \
+> Mine is strength, mine is weakness. \
+> Mine are the saints, mine the sinners. \
+> Mine is beauty, mine is harmony. \
+> Everything is mine. \
+> Mine are the angels of God, mine is the Mother of God. \
+> God is mine and is everything to me, \
 > Because Christ is mine and is everything to me.
 
 Beloved of light! Those who live consciously in love have the power to tell the

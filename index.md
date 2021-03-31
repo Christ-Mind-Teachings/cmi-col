@@ -1,7 +1,7 @@
 ---
 layout: page
 masthead: home
-title: "Droga Mistrzostwa"
+title: "Choose Only Love"
 footer:
   display: true
   donate: false
@@ -15,7 +15,20 @@ footer:
 
 <div class="page-introduction" markdown="1">
 
-Page introduction here
+<p>
+Invisible realms of Angels became visible to Sebastián Blaksley in an
+extraordinary series of 144 visitations overseen by Archangels Raphael and
+Gabriel. They asked him to take down their messages, including messages from
+Jesus and Mother Mary. Choose Only Love is the result. Hearing this truth, like
+hearing a song once loved but forgotten, rekindles a relationship with your
+true self that is direct, personal, and magnificent. 
+</p>
+
+<p>
+Choose Only Love is a compliation of seven volumes, four of which are available
+now. The remaining volumes are expected to be avilalbe by the end of 2021. Each
+will be added to the Library as they are ready.
+</p>
 
 </div>
 
@@ -37,6 +50,7 @@ Page introduction here
         </div>
       </div>
     </div>
+    <!--
     <div class="column source-features">
       <div class="ui top attached tabular menu">
         <a class="active item" data-tab="first">News</a>
@@ -64,6 +78,7 @@ Page introduction here
         </div>
       </div>
     </div>
+    -->
   </div>
   <div class="ui three cards">
     <div class="card">
@@ -124,6 +139,7 @@ Page introduction here
         </div>
       </div>
     </div>
+    <!-- 
     <div class="card">
       <a id="book-five" href="#" data-book="book5" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
@@ -166,5 +182,6 @@ Page introduction here
         </div>
       </div>
     </div>
+    -->
   </div>
 </div>

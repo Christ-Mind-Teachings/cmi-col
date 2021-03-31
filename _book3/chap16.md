@@ -112,7 +112,7 @@ Then, always with your thoughts placed beyond the body, ask yourself:
 
 > How would God look at this holy person in front of me? \
 > How would God think of His child? \
-> How would love contemplate this being? \
+> How would love contemplate this being?
 
 These three questions are really the same, so you need not put effort in
 thinking about all three, but choose the one most suitable for you. Keep in

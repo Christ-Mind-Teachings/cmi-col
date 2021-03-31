@@ -1,25 +1,25 @@
 {
   "bid": "acq",
-  "title": "Poznaj Drogę",
-  "image": "/t/pwom/public/img/wom/acq-toc.jpg",
+  "title": "Get Acquainted",
+  "image": "/t/col/public/img/col/acq-toc.jpg",
   "toc": "relaxed ordered",
   "totalPages": 4,
   "contents": [
     {
-      "title": "Ścieżka Drogi Mistrzostwa",
-      "url": "/t/pwom/acq/path/"
+      "title": "About Sebastian Blaksley",
+      "url": "/t/col/acq/about/"
     },
     {
-      "title": "Sugestie do praktyki",
-      "url": "/t/pwom/acq/advice/"
+      "title": "How It Originated",
+      "url": "/t/col/acq/origin/"
     },
     {
-      "title": "Wideo instrukcja",
-      "url": "/t/pwom/acq/video/"
+      "title": "A Description of the Manifestations",
+      "url": "/t/col/acq/description/"
     },
     {
-      "title": "Kontakt",
-      "url": "/t/pwom/acq/contact/"
+      "title": "COL on Amazon",
+      "url": "/t/col/acq/amazon/"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "title": "Let Yourself Be Loved",
   "image": "/t/col/public/img/col/book2-toc.jpg",
   "toc": "relaxed",
-  "totalPages": 26,
+  "totalPages": 25,
   "note": "Make sure url's begin and end with '/'",
   "contents": [
     {
@@ -101,10 +101,6 @@
     {
       "title": "Final Words",
       "url": "/t/col/book2/final/"
-    },
-    {
-      "title": "Appendix",
-      "url": "/t/col/book2/appendix/"
     },
     {
       "title": "A Mystical Relationship",

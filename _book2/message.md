@@ -17,15 +17,15 @@ inclusive.
 
 As Jesus says in Book 5 of this series:
 
-*It is important that you remember that names, like words, have no meaning of
-their own in relation to the realm of divine truth. Do not forget that love has
-no words. However, in the plane of perceptions, names, like words, can mean a
-lot. Names such as Jesus, Mary, Holy Spirit, and God are used that have been
-endowed with many meanings over the centuries. We cannot escape the laws of
-perception while living in the world. Nor is there any reason to do so. The
-love of God does not overlook anything in your world, but rather joins with it,
-and from that union, transforms it, together with you, so that the truth that
-is beyond every word shines freely.*
+> It is important that you remember that names, like words, have no meaning of
+> their own in relation to the realm of divine truth. Do not forget that love has
+> no words. However, in the plane of perceptions, names, like words, can mean a
+> lot. Names such as Jesus, Mary, Holy Spirit, and God are used that have been
+> endowed with many meanings over the centuries. We cannot escape the laws of
+> perception while living in the world. Nor is there any reason to do so. The
+> love of God does not overlook anything in your world, but rather joins with it,
+> and from that union, transforms it, together with you, so that the truth that
+> is beyond every word shines freely.
 
 I hope with all my heart that you feel included in the embrace
 of God’s love through these messages from Heaven. But just reading them will
@@ -215,6 +215,8 @@ themselves be the beloved of God, more and more every day, and in this way be
 transformed by the beauty of a love that has no beginning or end.
 
 With love in Christ, \
-Sebastián Blaksley, A soul in love \
-Buenos Aires, Argentina, January, 2019
+Sebastián Blaksley, \
+A soul in love \
+Buenos Aires, Argentina, \
+January, 2019
 

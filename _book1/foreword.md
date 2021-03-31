@@ -15,15 +15,16 @@ everything that arises within the framework of your consciousness, be it
 images, feelings, memories, emotions, thoughts, sensations, things, bodies,
 circumstances, or events. All.
 
-Beloved soul, /
-I am the living Christ who lives in you. /
-I am the faithful reflection of your self, of your soul. /
-I am the pearl of inestimable value. /
-I am the lost drachma. /
-I am the hidden treasure. /
-I am what you have forgotten precisely because it is true. I am the light of Christ Consciousness. /
-I am your true identity. /
-I am what you are in truth. /
+Beloved soul, \
+I am the living Christ who lives in you. \
+I am the faithful reflection of your self, of your soul. \
+I am the pearl of inestimable value. \
+I am the lost drachma. \
+I am the hidden treasure. \
+I am what you have forgotten precisely because it is true. \
+I am the light of Christ Consciousness. \
+I am your true identity. \
+I am what you are in truth. \
 I am the Christ in you.
 
 The whiteness of the light in which I have come is a pale reflection of the

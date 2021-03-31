@@ -1,5 +1,5 @@
 ---
-title: "A Description of the Manifestations"
+title: "Prelude"
 subtitle: "A message from Archangel Raphael"
 ---
 

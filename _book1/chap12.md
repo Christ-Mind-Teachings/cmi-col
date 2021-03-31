@@ -174,7 +174,7 @@ given a kingdom in which to be, a kingdom outside of the paradise of love. And
 at the same time it was prevented from accessing the tree of life—it cannot be
 eternal because it has denied the truth.
 
-IV. The Battlefield
+## IV. The Battlefield
 
 Everything born in time disappears in time. Time was created to give time for
 the experience of separation. Everything conceived by the ego is temporary

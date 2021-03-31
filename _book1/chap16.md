@@ -313,12 +313,12 @@ happy, as is God’s wish. And the reverberation of the power of that desire wil
 attract the good, the holy, and the beautiful. Do this prayer until it is no
 longer necessary. Your soul will guide you.
 
-> I am the living Christ who lives in me.
-> I am the truth of the Father come true.
-> I am the face of love that only I can be.
-> I am very holy.
-> I am one with my Heavenly Father.
-> I am the joy of God.
+> I am the living Christ who lives in me. \
+> I am the truth of the Father come true. \
+> I am the face of love that only I can be. \
+> I am very holy. \
+> I am one with my Heavenly Father. \
+> I am the joy of God. \
 > Amen.
 
 Now rest in the presence of love. Let yourself be embraced by Heaven and

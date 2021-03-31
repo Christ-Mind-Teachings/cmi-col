@@ -143,7 +143,7 @@ and create the consciousness of unity. Your mind and heart will become
 increasingly aware of the union of body and spirit, the singular and universal.
 This is the embrace. This is love.
 
-![Image of medallion](/t/col/public/img/medallion.jpg)
+![Image of medallion](/t/col/public/img/col/medallion.jpg)
 
 On the front side of the medallion is three intertwined hearts surrounded by a
 circle of twelve stars that represent all creation. Below the three intertwined

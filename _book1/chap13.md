@@ -271,18 +271,21 @@ everything holy, beautiful, and perfect, in that measure you will be sweeping
 the house of fear. In that measure you let love shine again in your holy mind
 with all its glory, sweetness, and beauty.
 
-> Forget the experiences. /
-> Forget the offenses. /
-> Forget what one day made you suffer. /
-> Forget what you think you are. /
-> Forget what you have learned. /
-> Forget the future. /
+> Forget the experiences. \
+> Forget the offenses. \
+> Forget what one day made you suffer. \
+> Forget what you think you are. \
+> Forget what you have learned. \
+> Forget the future. \
 > Forget everything, including yourself.
 
-> Evoke love given and received. /
-> Evoke beauty, peace, and joy. /
-> Evoke happy stories. /
-> Evoke loving thoughts. Evoke noble feelings. Evoke the Christ in you. Evoke God.
+> Evoke love given and received. \
+> Evoke beauty, peace, and joy. \
+> Evoke happy stories. \
+> Evoke loving thoughts. \
+> Evoke noble feelings. \
+> Evoke the Christ in you. \
+> Evoke God.
 
 Beloved soul, live life submerged in peaceful vigilance, in constant
 observation without judgment, effortlessly attentive.
@@ -291,11 +294,11 @@ Remember always who you really are. If you discover yourself experiencing the
 slightest trace of bitterness, the slightest tension in the body, or a fit of
 anger, say to yourself:
 
-> Come, Christ, come. Come to remind me of the truth, the /
-> truth of who I really am. /
-> I am the living Christ who lives in me. /
-> I am holy. /
-> My Father and I are one. /
+> Come, Christ, come. Come to remind me of the truth, the \
+> truth of who I really am. \
+> I am the living Christ who lives in me. \
+> I am holy. \
+> My Father and I are one. \
 > I am the anointed of God.
 
 Above all do not judge anything. Remember to love all that arises, whatever it is.

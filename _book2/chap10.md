@@ -54,7 +54,7 @@ that fear has done anything, then you continue to give power to fear. Giving
 value to fear, believing that fear can produce some effect and therefore have
 some real power, prevents you from releasing it completely.
 
-## II. Free expression
+## II. Free Expression
 
 God’s child! Little one born of purity that cannot be sullied! Beloved soul of
 the Father! We can already realize the trinity relationship that exists between

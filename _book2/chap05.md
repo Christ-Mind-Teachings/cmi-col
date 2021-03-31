@@ -157,9 +157,7 @@ sacred veneration to what the Father says to the Son, what the husband says to
 the spouse. God speaks with the soul. Hear now, in silence, the voice of love
 speaking to love.
 
-<div class="indent">
-
-@@@ This should be indented
+<div markdown="1" class="indent">
 
 *The voice of God the Father*: “My love! Soul that has sprung from My love,
 self of My Self, ineffable beauty! One day you wandered through strange lands.

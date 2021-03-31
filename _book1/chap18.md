@@ -194,13 +194,13 @@ accept that all the greatness you see in Jesus is exactly the greatness you
 are in your self. All the purity you see in Mary is exactly the same purity
 that resides in your self. Now happily repeat in the depths of your soul:
 
-> Now I know who I am.
-> My Jesus and I are one.
-> My Immaculate Mary and I are one.
-> My Christ and I are one.
-> Now I know who I am.
-> I have found my self.
-> Now I know who I am.
+> Now I know who I am. \
+> My Jesus and I are one. \
+> My Immaculate Mary and I are one. \
+> My Christ and I are one. \
+> Now I know who I am. \
+> I have found my self. \
+> Now I know who I am. \
 > I am Christ.
 
 Now you know the purpose of your journey in time, and even before the beginning

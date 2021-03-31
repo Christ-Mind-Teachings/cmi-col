@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
   <!-- Standard Meta -->
   <meta charset="utf-8" />
@@ -37,6 +37,22 @@
   {% else %}
   <div class="transcript ui text container">
   {% endif %}
+    {% if page.ref %}
+    <h1 class="ui header center aligned">
+      {{page.ref}}.
+      <hr/>
+    </h1>
+    {% endif %}
+    <h2 class="ui header center aligned">
+      {{page.title}}
+
+      {% if page.subtitle %}
+        <div class="sub header">
+          <br/>
+          <em>{{page.subtitle}}</em>
+        </div>
+      {% endif %}
+    </h2>
     {{ content }}
   </div>
 

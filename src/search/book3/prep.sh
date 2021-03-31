@@ -4,6 +4,6 @@ bin="../_bin/bin"
 rm *.json
 
 for i in `cat contents`; do
-  ${bin}/prep -b wot $i
+  ${bin}/prep -b book3 $i
 done
 

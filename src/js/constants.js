@@ -31,9 +31,13 @@ export default {
     bmModal: "bm.modal",
     srchResults: "srch.results",
     pnDisplay: "pn.display",
+    cfgacq: "cfg.acq",
     cfgbook1: "cfg.book1",
     cfgbook2: "cfg.book2",
     cfgbook3: "cfg.book3",
-    cfgbook4: "cfg.book4"
+    cfgbook4: "cfg.book4",
+    cfgbook5: "cfg.book5",
+    cfgbook6: "cfg.book6",
+    cfgbook7: "cfg.book7"
   }
 };

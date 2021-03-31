@@ -1,4 +1,7 @@
-import {pageDriver, pageNavigationDriver, transcriptDriver} from "../_util/driver";
+import {pageDriver} from "../_util/driver";
+import {transcriptDriver, pageNavigationDriver} from "www/modules/_util/driver";
+
+// import {pageDriver, pageNavigationDriver, transcriptDriver} from "../_util/driver";
 import key from "../_config/key";
 import clipboard from "www/modules/_bookmark/clipboard";
 import {getString} from "../_language/lang";
@@ -8,10 +11,21 @@ function createClickHandlers() {
   $("#help-menu").on("click", "div.item", function(e) {
     e.preventDefault();
 
+    if ($(this).hasClass("page-navtour")) {
+      //console.log("page Nav Driver");
+      pageNavigationDriver("Choose Only Love");
+    }
+
+    if ($(this).hasClass("transcript-tour")) {
+      //console.log("transcriptDriver");
+      transcriptDriver("Choose Only Love");
+    }
+
     if ($(this).hasClass("page-tour")) {
       pageDriver();
     }
 
+    /*
     if ($(this).hasClass("page-navtour")) {
       //console.log("page Nav Driver");
       pageNavigationDriver();
@@ -21,6 +35,7 @@ function createClickHandlers() {
       //console.log("transcriptDriver");
       transcriptDriver();
     }
+    */
 
     if ($(this).hasClass("about-src")) {
       location.href = "/about/";
@@ -34,12 +49,8 @@ function createClickHandlers() {
       location.href = "/acq/video/";
     }
 
-    if ($(this).hasClass("polish-documentation")) {
-      location.href = "/t/pwom/acq/video/";
-    }
-
     if ($(this).hasClass("contact-me")) {
-      location.href = "/t/pwom/acq/contact/";
+      location.href = "/acq/contact/";
     }
   });
 

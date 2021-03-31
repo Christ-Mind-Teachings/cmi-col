@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for b in early lj wos woh wot wok; do
+for b in book1 book2 book3 book4; do
   echo "$b"
   cd $b
 

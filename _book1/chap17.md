@@ -285,15 +285,15 @@ who are the living Christ. Stay in the presence of love. Be accompanied by the
 truth that is always true, repeating in the silence of your soul, as often as
 you feel the need to do it, this declaration of freedom:
 
-> I am who I am.
-> I don’t have a name.
-> My brother is what he is.
-> He doesn’t have a name.
-> Everything is what it is.
-> Nothing has a name.
-> I reside in the nothingness of God.
-> I am the pure abstraction of love.
-> I am the pure potential of self.
-> I am.
+> I am who I am. \
+> I don’t have a name. \
+> My brother is what he is. \
+> He doesn’t have a name. \
+> Everything is what it is. \
+> Nothing has a name. \
+> I reside in the nothingness of God. \
+> I am the pure abstraction of love. \
+> I am the pure potential of self. \
+> I am. \
 > This is the truth.
 

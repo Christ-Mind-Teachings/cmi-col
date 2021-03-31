@@ -54,6 +54,7 @@ export function getConfig(book, assign = true) {
       }
       resolve(resp);
     }).catch((err) => {
+      console.error(err);
       reject(err);
     });
   });

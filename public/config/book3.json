@@ -3,9 +3,13 @@
   "title": "Homo-Christus Deo",
   "image": "/t/col/public/img/col/book3-toc.jpg",
   "toc": "relaxed",
-  "totalPages": 24,
+  "totalPages": 25,
   "note": "Make sure url's begin and end with '/'",
   "contents": [
+    {
+      "title": "How It Originated",
+      "url": "/t/col/book3/origin/"
+    },
     {
       "title": "Prelude",
       "url": "/t/col/book3/prelude/"

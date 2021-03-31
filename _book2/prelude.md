@@ -9,18 +9,18 @@ to you from the Heaven of your heart.
 *I am the unity of being in which everything exists and is. You, we, are that
 union. We are the union of love.*
 
-I have come to look for you, so that we continue to submerge ourselves in the
+*I have come to look for you, so that we continue to submerge ourselves in the
 depths of the infinite mystery of love: love without borders, love without
-beginning or end, salvific love.
+beginning or end, salvific love.*
 
-I am the voice of love. I am the wisdom that resides in every living being.
-Remember that nowhere am I not eternally united with you in the light of truth.
+*I am the voice of love. I am the wisdom that resides in every living being.
+Remember that nowhere am I not eternally united with you in the light of truth.*
 
-I am in every tear shed, in every perceived darkness, in every smile, in every
+*I am in every tear shed, in every perceived darkness, in every smile, in every
 light, in every dream, in every truth. I am in each rainbow, in each flight of
-the birds, in each lily of the field.
+the birds, in each lily of the field.*
 
-I am the voice of Christ consciousness made flesh.
+*I am the voice of Christ consciousness made flesh.*
 
 These words carry within them the power of the love of my divine heart, just as
 a pregnant mother carries her beloved child within her womb. As we advance in
