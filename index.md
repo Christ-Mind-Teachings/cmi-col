@@ -25,7 +25,7 @@ true self that is direct, personal, and magnificent.
 </p>
 
 <p>
-Choose Only Love is a compliation of seven volumes, four of which are available
+Choose Only Love is a compliation of seven volumes, five of which are available
 now. The remaining volumes are expected to be avilalbe by the end of 2021. Each
 will be added to the Library as they are ready.
 </p>
@@ -139,7 +139,6 @@ will be added to the Library as they are ready.
         </div>
       </div>
     </div>
-    <!-- 
     <div class="card">
       <a id="book-five" href="#" data-book="book5" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
@@ -150,10 +149,11 @@ will be added to the Library as they are ready.
       </a>
       <div class="content">
         <div class="description">
-          Book5: ????
+          Book5: The Holy Dwelling
         </div>
       </div>
     </div>
+    <!-- 
     <div class="card">
       <a id="book-six" href="#" data-book="book6" class="toc-modal-open image">
         {% if site.environment == "standalone" %}

@@ -1,0 +1,114 @@
+{
+  "bid": "book5",
+  "title": "The Holy Dwelling",
+  "image": "/t/col/public/img/col/book5-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 26,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "How It Originated",
+      "url": "/t/col/book5/origin/"
+    },
+    {
+      "title": "A Description of the Manifestations",
+      "url": "/t/col/book5/description/"
+    },
+    {
+      "title": "Prelude",
+      "url": "/t/col/book5/prelude/"
+    },
+    {
+      "title": "1. The Name of God",
+      "url": "/t/col/book5/chap01/"
+    },
+    {
+      "title": "2. The Meeting Point",
+      "url": "/t/col/book5/chap02/"
+    },
+    {
+      "title": "3. The Power of Sweetness",
+      "url": "/t/col/book5/chap03/"
+    },
+    {
+      "title": "4. The Joy of Being",
+      "url": "/t/col/book5/chap04/"
+    },
+    {
+      "title": "5. Words of Eternal Life",
+      "url": "/t/col/book5/chap05/"
+    },
+    {
+      "title": "6. Life is Communion",
+      "url": "/t/col/book5/chap06/"
+    },
+    {
+      "title": "7. The Game of Beautiful Love",
+      "url": "/t/col/book5/chap07/"
+    },
+    {
+      "title": "8. The Link with Source",
+      "url": "/t/col/book5/chap08/"
+    },
+    {
+      "title": "9. New Temptations",
+      "url": "/t/col/book5/chap09/"
+    },
+    {
+      "title": "10. The Spiritual Practice of Joy",
+      "url": "/t/col/book5/chap10/"
+    },
+    {
+      "title": "11. I Have Known You Forever",
+      "url": "/t/col/book5/chap11/"
+    },
+    {
+      "title": "12. The Divinity of the Soul",
+      "url": "/t/col/book5/chap12/"
+    },
+    {
+      "title": "13. The Wound of God",
+      "url": "/t/col/book5/chap13/"
+    },
+    {
+      "title": "14. Communication from Above",
+      "url": "/t/col/book5/chap14/"
+    },
+    {
+      "title": "15. Uniqueness: The Reality of Love",
+      "url": "/t/col/book5/chap15/"
+    },
+    {
+      "title": "16. The Government of Love",
+      "url": "/t/col/book5/chap16/"
+    },
+    {
+      "title": "17. The Light of My Glory",
+      "url": "/t/col/book5/chap17/"
+    },
+    {
+      "title": "18. Work for Love",
+      "url": "/t/col/book5/chap18/"
+    },
+    {
+      "title": "19. The Rest of the Pure Soul",
+      "url": "/t/col/book5/chap19/"
+    },
+    {
+      "title": "20. Shanti, Deo Maranatha",
+      "url": "/t/col/book5/chap20/"
+    },
+    {
+      "title": "21. Love's Creations",
+      "url": "/t/col/book5/chap21/"
+    },
+    {
+      "title": "Final Words",
+      "url": "/t/col/book5/final/"
+    },
+    {
+      "title": "A Mystical Relationship",
+      "url": "/t/col/book5/clarifications/"
+    }
+  ]
+}

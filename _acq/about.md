@@ -19,7 +19,7 @@ title: "About Sebastian Blaksley"
 </p>
 
 <p>
-  At the age of six, Sebastián was involved in a near-fatal acci- dent during
+  At the age of six, Sebastián was involved in a near-fatal accident during
   which he heard a voice, which later identified itself as Jesus. Ever since he
   has continued to hear that voice. Sebastián says: “Since I can remember, I have
   felt the call of Jesus and Mary to live abandoned to their will. I am devoted
@@ -27,7 +27,7 @@ title: "About Sebastian Blaksley"
 </p>
 
 <p>
-  In 2013, he began to record messages from his mystical experi- ences.
+  In 2013, he began to record messages from his mystical experiences.
   In 2016 he miraculously discovered A Course of Love and felt the call to devote
   himself to bringing it to the Spanish-speaking world. He also now receives,
   transcribes, and shares what the voice of Christ—the voice of love—dictates.

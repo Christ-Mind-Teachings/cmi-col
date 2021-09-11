@@ -55,6 +55,9 @@ collections:
   book4:
     output: true
     title: "Book 4: Wisdom"
+  book5:
+    output: true
+    title: "Book 5: The Holy Dwelling"
 
 defaults:
 
@@ -121,6 +124,19 @@ defaults:
       image-width: 612
       image-height: 918
       bid: "book4"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book5
+    values:
+      layout: transcript
+      book: "The Holy Dwelling"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book5-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book5"
       audio: false
 
 exclude: [
