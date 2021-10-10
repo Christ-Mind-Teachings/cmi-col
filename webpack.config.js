@@ -15,6 +15,7 @@ const standalone_alias = {
   "wom": path.resolve(__dirname, "../cmi-www/src/js"),
   "pwom": path.resolve(__dirname, "../cmi-www/src/js"),
   "col": path.resolve(__dirname, "../cmi-www/src/js"),
+  "ftcm": path.resolve(__dirname, "../cmi-www/src/js"),
   "www": path.resolve(__dirname, "../cmi-www/src/js")
 };
 
@@ -25,13 +26,13 @@ const integration_alias = {
   "oe": path.resolve(__dirname, "../cmi-oe/src/js"),
   "acol": path.resolve(__dirname, "../cmi-acol/src/js"),
   "col": path.resolve(__dirname, "../cmi-col/src/js"),
+  "ftcm": path.resolve(__dirname, "../cmi-ftcm/src/js"),
   "jsb": path.resolve(__dirname, "../cmi-jsb/src/js"),
   "raj": path.resolve(__dirname, "../cmi-raj/src/js"),
   "wom": path.resolve(__dirname, "../cmi-wom/src/js"),
   "pwom": path.resolve(__dirname, "../cmi-pwom/src/js"),
   "www": path.resolve(__dirname, "../cmi-www/src/js")
 };
-
 
 module.exports = {
   devtool: "source-map",
