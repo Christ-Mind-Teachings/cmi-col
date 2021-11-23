@@ -2,8 +2,8 @@ module.exports = {
   sourceId: 17,
   sid: "col",
   prefix: "/t/col",
-  books: ["book1","book2","book3","book4","book5","acq"],
-  bookIds: ["xxx","book1","book2","book3","book4","book5","acq"],
+  books: ["book1","book2","book3","book4","book5","book6","acq"],
+  bookIds: ["xxx","book1","book2","book3","book4","book5","book6","acq"],
 
   contents: {
     book1: ["xxx","message","foreword","chap01","chap02","chap03","chap04","chap05","chap06","chap07","chap08","chap09","chap10","chap11","chap12","chap13","chap14","chap15","chap16","chap17","chap18","chap19","chap20","chap21","final","appendix","clarifications"],
@@ -11,6 +11,7 @@ module.exports = {
     book3: ["xxx","origin","prelude","chap01","chap02","chap03","chap04","chap05","chap06","chap07","chap08","chap09","chap10","chap11","chap12","chap13","chap14","chap15","chap16","chap17","chap18","chap19","chap20","chap21","final","clarifications"],
     book4: ["xxx","origin","description","prelude","chap01","chap02","chap03","chap04","chap05","chap06","chap07","chap08","chap09","chap10","chap11","chap12","chap13","chap14","chap15","chap16","chap17","chap18","chap19","chap20","chap21","final","clarifications"],
     book5: ["xxx","origin","description","prelude","chap01","chap02","chap03","chap04","chap05","chap06","chap07","chap08","chap09","chap10","chap11","chap12","chap13","chap14","chap15","chap16","chap17","chap18","chap19","chap20","chap21","final","clarifications"],
+    book6: ["xxx","message","prelude","chap01","chap02","chap03","chap04","chap05","chap06","chap07","chap08","chap09","chap10","chap11","chap12","chap13","chap14","chap15","chap16","chap17","chap18","chap19","chap20","chap21","final","clarifications"],
     acq: ["xxx","about","origin","description","amazon"],
   }
 };
