@@ -58,6 +58,9 @@ collections:
   book5:
     output: true
     title: "Book 5: The Holy Dwelling"
+  book6:
+    output: true
+    title: "Book 6: The Divine Relationship"
 
 defaults:
 
@@ -137,6 +140,19 @@ defaults:
       image-width: 612
       image-height: 918
       bid: "book5"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book6
+    values:
+      layout: transcript
+      book: "The Divine Relationship"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book6-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book6"
       audio: false
 
 exclude: [

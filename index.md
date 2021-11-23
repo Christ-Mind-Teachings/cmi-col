@@ -153,7 +153,6 @@ will be added to the Library as they are ready.
         </div>
       </div>
     </div>
-    <!-- 
     <div class="card">
       <a id="book-six" href="#" data-book="book6" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
@@ -164,10 +163,11 @@ will be added to the Library as they are ready.
       </a>
       <div class="content">
         <div class="description">
-          Book6: ???
+          Book6: The Divine Relationship
         </div>
       </div>
     </div>
+    <!-- 
     <div class="card">
       <a id="book-seven" href="#" data-book="book7" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
