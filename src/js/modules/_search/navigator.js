@@ -13,13 +13,23 @@ const url_prefix = constants.env === "standalone"?"":constants.url_prefix;
 const SCROLL_INTERVAL = 250;
 
 function scrollComplete(message, type) {
-  console.log(`${message}: ${type}`);
+  //console.log(`${message}: ${type}`);
 }
 
 function scrollIntoView(id, caller) {
   scroll(document.getElementById(id), {align: {top: 0.2}}, (type) => {
     scrollComplete(`scroll from search navigator ${caller}(${id})`, type);
   });
+}
+
+/**
+ * Remove <mark> highlighting search terms when search navigator closes
+ */
+function clearMarks() {
+  let marks = document.querySelectorAll("mark.show-mark");
+  for (let mark of marks) {
+    mark.outerHTML = mark.innerHTML;
+  }
 }
 
 class PageMatches {
@@ -185,6 +195,7 @@ function initClickListeners(matches) {
 
     $(".search-navigator-wrapper").addClass("hide-search-navigator");
     $(".transcript").removeClass("search-navigator-active");
+    clearMarks();
   });
 }
 

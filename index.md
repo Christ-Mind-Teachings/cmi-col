@@ -25,9 +25,8 @@ true self that is direct, personal, and magnificent.
 </p>
 
 <p>
-Choose Only Love is a compliation of seven volumes, five of which are available
-now. The remaining volumes are expected to be avilalbe by the end of 2021. Each
-will be added to the Library as they are ready.
+Choose Only Love is a compliation of seven volumes, six of which are available
+now. The last volume is expected to be avilalbe by the end of 2021.
 </p>
 
 </div>
@@ -50,7 +49,6 @@ will be added to the Library as they are ready.
         </div>
       </div>
     </div>
-    <!--
     <div class="column source-features">
       <div class="ui top attached tabular menu">
         <a class="active item" data-tab="first">News</a>
@@ -70,7 +68,7 @@ will be added to the Library as they are ready.
               <label>Get Inspired</label>
               <button id="show-quote-button" class="ui primary button">
                 <i class="quote left icon"></i>
-                Discover Quotes
+                Read Quotes
               </button> 
             </div>
             <div id="user-quote-select" class="field"></div>
@@ -78,7 +76,6 @@ will be added to the Library as they are ready.
         </div>
       </div>
     </div>
-    -->
   </div>
   <div class="ui three cards">
     <div class="card">

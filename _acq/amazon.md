@@ -1,10 +1,9 @@
 ---
-title: "COL on Amazon"
 ---
 
   <h2 class="ui center aligned icon header">
     <div class="content">
-      <em>Choose Only Love</em> on Amazon
+      Find <em>Choose Only Love</em> on Amazon
     </div>
   </h2>
 
@@ -62,6 +61,34 @@ title: "COL on Amazon"
         </a>
         <div class="meta">
           <span><em>Book 4: Wisdom</em> from Amazon</span>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <a class="ui small image" target="_blank"
+        href="https://amzn.to/3CJziBW">
+        <img src="/t/col/public/img/col/book5-big.jpg">
+      </a>
+      <div class="content">
+        <a class="header" href="https://amzn.to/3CJziBW" target="_blank">
+          <em>Book 5: The Holy Dwelling</em>
+        </a>
+        <div class="meta">
+          <span><em>Book 5: The Holy Dwelling</em> from Amazon</span>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <a class="ui small image" target="_blank"
+        href="https://amzn.to/3kWxcc0">
+        <img src="/t/col/public/img/col/book6-big.jpg">
+      </a>
+      <div class="content">
+        <a class="header" href="https://amzn.to/3kWxcc0" target="_blank">
+          <em>Book 6: The Divine Relationship</em>
+        </a>
+        <div class="meta">
+          <span><em>Book 4: The Divine Relationship</em> from Amazon</span>
         </div>
       </div>
     </div>
