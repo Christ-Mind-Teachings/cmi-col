@@ -24,6 +24,25 @@ h1.ui.header.center.aligned {
   margin-left: 3rem;
 }
 
+.transcript.book7 div.message {
+  font-style: italic;
+  margin-bottom: 1em;
+  margin-left: 3rem;
+}
+
+.transcript.book7 div.statement {
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+.over-indent {
+  margin-left: 5%;
+}
+
+.center {
+  text-align: center;
+}
+
 .transcript.lj img { 
   display: block;
   margin-left: auto;

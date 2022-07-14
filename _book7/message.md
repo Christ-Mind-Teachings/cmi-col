@@ -13,7 +13,7 @@ person living in the 21st century, born in Argentina, with a Catholic
 education, and am very devoted to my faith. Therefore the flavor of these
 messages reflect my Catholic orientation but it was clearly understood that
 love is universal and addressed to everyone and everything. Love is always
-inclusive.
+inclusive. 
 
 As Jesus says in Book 5 of this series:
 
@@ -41,7 +41,7 @@ evoke and you will begin to remember your first love, that is, to God. These
 writings are a love letter from God the Father to his beloved daughters and
 sons. It is directed to the healing of memory so that, once healed, the memory
 of a love that has no beginning or end shines in you.
-
+  
 ## I. How It Originated
 
 On October 3, 2018, a presence that was all love and whose magnificence,

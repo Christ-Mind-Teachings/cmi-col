@@ -1,0 +1,110 @@
+{
+  "bid": "book7",
+  "title": "The Way of Being",
+  "image": "/t/col/public/img/col/book7-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 25,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "A Special Note about Gender",
+      "url": "/t/col/book7/gender/"
+    },
+    {
+      "title": "A Message from Sebastian",
+      "url": "/t/col/book7/message/"
+    },
+    {
+      "title": "Prelude",
+      "url": "/t/col/book7/prelude/"
+    },
+    {
+      "title": "1. New Melodies of Love",
+      "url": "/t/col/book7/chap01/"
+    },
+    {
+      "title": "2. The Wind Blows",
+      "url": "/t/col/book7/chap02/"
+    },
+    {
+      "title": "3. Divine Whispers",
+      "url": "/t/col/book7/chap03/"
+    },
+    {
+      "title": "4. The Testimony of the Truth",
+      "url": "/t/col/book7/chap04/"
+    },
+    {
+      "title": "5. New Forms of Love",
+      "url": "/t/col/book7/chap05/"
+    },
+    {
+      "title": "6. Form and Knowledge",
+      "url": "/t/col/book7/chap06/"
+    },
+    {
+      "title": "7. Canals, Rivers, and Oceans",
+      "url": "/t/col/book7/chap07/"
+    },
+    {
+      "title": "8. The Golden Cages",
+      "url": "/t/col/book7/chap08/"
+    },
+    {
+      "title": "9. I Live for Being Who I Am",
+      "url": "/t/col/book7/chap09/"
+    },
+    {
+      "title": "10. Gathering and Truth",
+      "url": "/t/col/book7/chap10/"
+    },
+    {
+      "title": "11. Nothing Is Impossible for You",
+      "url": "/t/col/book7/chap11/"
+    },
+    {
+      "title": "12. Love and I Are One",
+      "url": "/t/col/book7/chap12/"
+    },
+    {
+      "title": "13. The Breath of Living Love",
+      "url": "/t/col/book7/chap13/"
+    },
+    {
+      "title": "14. A New Anointing",
+      "url": "/t/col/book7/chap14/"
+    },
+    {
+      "title": "15. A World of Pure Crystal",
+      "url": "/t/col/book7/chap15/"
+    },
+    {
+      "title": "16. The Ascension Has Come",
+      "url": "/t/col/book7/chap16/"
+    },
+    {
+      "title": "17. Flow of Eternal Unity",
+      "url": "/t/col/book7/chap17/"
+    },
+    {
+      "title": "18. The Fullness of Time",
+      "url": "/t/col/book7/chap18/"
+    },
+    {
+      "title": "Final Words",
+      "url": "/t/col/book7/final/"
+    },
+    {
+      "title": "Appendix",
+      "url": "/t/col/book7/appendix/"
+    },
+    {
+      "title": "Resources",
+      "url": "/t/col/book7/resources/"
+    },
+    {
+      "title": "About the Receiver",
+      "url": "/t/col/book7/about/"
+    }
+  ]
+}

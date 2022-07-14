@@ -1,9 +1,10 @@
 export const status = {
-  book1: "Mon Mar 22 13:04:35 HST 2021",
-  book2: "Thu Mar 25 14:10:24 HST 2021",
-  book3: "Thu Mar 25 14:10:01 HST 2021",
-  book4: "Mon Mar 22 13:05:40 HST 2021",
-  book5: "Tue Aug 31 05:43:05 HST 2021",
-  book6: "Mon Nov 22 15:10:17 HST 2021",
-  acq: "Mon Nov 22 16:33:02 HST 2021"
+  book1: "Wed Jan 26 12:56:47 HST 2022",
+  book2: "Wed Jan 26 12:56:47 HST 2022",
+  book3: "Wed Jan 26 12:56:47 HST 2022",
+  book4: "Wed Jan 26 12:56:47 HST 2022",
+  book5: "Wed Jan 26 12:56:47 HST 2022",
+  book6: "Wed Jan 26 12:56:47 HST 2022",
+  book7: "Wed Jul 13 15:19:06 HST 2022",
+  acq: "Wed Jan 26 12:56:47 HST 2022"
 };

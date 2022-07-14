@@ -25,8 +25,7 @@ true self that is direct, personal, and magnificent.
 </p>
 
 <p>
-Choose Only Love is a compliation of seven volumes, six of which are available
-now. The last volume is expected to be avilalbe by the end of 2021.
+All seven volumes of Choose Only Love are now available!
 </p>
 
 </div>
@@ -164,7 +163,6 @@ now. The last volume is expected to be avilalbe by the end of 2021.
         </div>
       </div>
     </div>
-    <!-- 
     <div class="card">
       <a id="book-seven" href="#" data-book="book7" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
@@ -175,10 +173,8 @@ now. The last volume is expected to be avilalbe by the end of 2021.
       </a>
       <div class="content">
         <div class="description">
-          Book7: ???
+          Book7: The Way of Being
         </div>
       </div>
     </div>
-    -->
   </div>
-</div>

@@ -62,6 +62,9 @@ collections:
   book6:
     output: true
     title: "Book 6: The Divine Relationship"
+  book7:
+    output: true
+    title: "Book 7: The Way of Being"
 
 defaults:
 
@@ -154,6 +157,19 @@ defaults:
       image-width: 612
       image-height: 918
       bid: "book6"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book7
+    values:
+      layout: transcript
+      book: "The Way of Being"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book7-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book7"
       audio: false
 
 exclude: [
