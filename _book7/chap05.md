@@ -1,7 +1,7 @@
 ---
 ref: "5"
 title: "New Forms of Love"
-subtitle: "A messagee from the Voice of Christ through a choir of
+subtitle: "A message from the Voice of Christ through a choir of
 Angels, in the presence of Archangel Raphael and Archangel Gabriel"
 ---
 

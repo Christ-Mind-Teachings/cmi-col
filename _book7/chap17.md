@@ -1,7 +1,7 @@
 ---
 ref: "17"
 title: "Flow of Eternal Unity"
-subtitle: "A messagee from the Voice of Christ through a choir of
+subtitle: "A message from the Voice of Christ through a choir of
 Angels, in the presence of Archangel Raphael and Archangel Gabriel"
 ---
 

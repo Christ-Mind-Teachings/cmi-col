@@ -1,7 +1,7 @@
 ---
 ref: "6"
 title: "Form and Knowledge"
-subtitle: "A messagee from Mother Mary"
+subtitle: "A message from Mother Mary"
 ---
 
 ## I. The First Relationship

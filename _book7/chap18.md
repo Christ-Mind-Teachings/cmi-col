@@ -1,7 +1,7 @@
 ---
 ref: "18"
 title: "The Fullness of Time"
-subtitle: "A messagee from the Voice of Mother-Father God, the Voice of
+subtitle: "A message from the Voice of Mother-Father God, the Voice of
 All Voices"
 ---
 
