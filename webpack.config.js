@@ -5,6 +5,7 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 //const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 const standalone_alias = {
+  /*
   "semantic": "../vendor/semantic",
   "me-plugin": path.resolve(__dirname, "../cmi-audio/dist"),
   "acim": path.resolve(__dirname, "../cmi-www/src/js"),
@@ -16,10 +17,12 @@ const standalone_alias = {
   "pwom": path.resolve(__dirname, "../cmi-www/src/js"),
   "col": path.resolve(__dirname, "../cmi-www/src/js"),
   "ftcm": path.resolve(__dirname, "../cmi-www/src/js"),
+ */
   "www": path.resolve(__dirname, "../cmi-www/src/js")
 };
 
 const integration_alias = {
+  /*
   "semantic": "../vendor/semantic",
   "me-plugin": path.resolve(__dirname, "../cmi-audio/dist"),
   "acim": path.resolve(__dirname, "../cmi-acim/src/js"),
@@ -31,6 +34,7 @@ const integration_alias = {
   "raj": path.resolve(__dirname, "../cmi-raj/src/js"),
   "wom": path.resolve(__dirname, "../cmi-wom/src/js"),
   "pwom": path.resolve(__dirname, "../cmi-pwom/src/js"),
+ */
   "www": path.resolve(__dirname, "../cmi-www/src/js")
 };
 

@@ -16,7 +16,7 @@ import {loadConfig} from "./modules/_config/config";
 import {bookmarkStart} from "./modules/_bookmark/start";
 import { searchInit } from "./modules/_search/search";
 import toc, {getBookId} from "./modules/_contents/toc";
-import audio from "./modules/_audio/audio";
+//import audio from "./modules/_audio/audio";
 import about from "./modules/_about/about";
 import { noteInfo } from "./notes";
 import contact from "./modules/_forms/contact";
@@ -41,7 +41,7 @@ $(document).ready(() => {
   loadConfig(getBookId()).then((result) => {
     search.initialize(searchInit(store));
     toc.initialize("transcript");
-    audio.initialize();
+    //audio.initialize();
     showParagraph();
     bookmarkStart("transcript");
   }).catch((error) => {
