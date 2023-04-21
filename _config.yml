@@ -1,8 +1,9 @@
 # CMI
 
-sourceId: 17
-environment: standalone
+environment: integration
+destination: "../cmi-www/_site/t/col"
 
+sourceId: 17
 cmiTitle: "Teachings of Christ Mind"
 siteName: "Library of Christ Mind Teachings"
 
@@ -12,20 +13,17 @@ description:  'A channeled work'
 url:          'https://www.christmind.info/t/col'
 baseurl:      ''
 keywords:     "Jesus, Jeshua, Channeled Material"
-home:         "/"
+home:         "/t/col/"
 port:         9917
 
 # About/contact
 author:
   name:              Rick Mercer
-  url:               https://twitter.com/rmercer33
-  email:             rmercer33@gmail.com
+  url:               https://rickmercer.us
+  email:             rmercer33@christmind.info
 
 fb-appId:     448658485318107
 semantic:     fui292
-#semantic:     fui286
-#semantic:     sui231
-#semantic:     sui241
 src-url:      'https://www.christmind.info/t/col'
 
 # Permalinks
@@ -55,6 +53,15 @@ collections:
   book4:
     output: true
     title: "Book 4: Wisdom"
+  book5:
+    output: true
+    title: "Book 5: The Holy Dwelling"
+  book6:
+    output: true
+    title: "Book 6: The Divine Relationship"
+  book7:
+    output: true
+    title: "Book 7: The Way of Being"
 
 defaults:
 
@@ -64,9 +71,9 @@ defaults:
     values:
       layout: transcript
       book: "Get Acquainted"
-      image: "/t/pwom/public/img/wom/acq-big.jpg"
+      image: "/t/col/public/img/col/acq-big.jpg"
       image-width: 612
-      image-height: 792
+      image-height: 918
       bid: "acq"
       audio: false
       pnumToggle: false
@@ -78,11 +85,9 @@ defaults:
       layout: transcript
       book: "Echoes of Holiness"
       publisher: "Choose Only Love"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image: "/t/col/public/img/col/book1-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 918
       bid: "book1"
       audio: false
 
@@ -93,11 +98,9 @@ defaults:
       layout: transcript
       book: "Let Yourself Be Loved"
       publisher: "Choose Only Love"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image: "/t/col/public/img/col/book2-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 918
       bid: "book2"
       audio: false
 
@@ -108,11 +111,9 @@ defaults:
       layout: transcript
       book: "Homo-Christus Deo"
       publisher: "Choose Only Love"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image: "/t/col/public/img/tol/book3-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 906
       bid: "book3"
       audio: false
 
@@ -123,15 +124,52 @@ defaults:
       layout: transcript
       book: "Wisdom"
       publisher: "Choose Only Love"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image: "/t/col/public/img/col/book4-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 918
       bid: "book4"
       audio: false
 
+  - scope:
+      path: ""
+      type: book5
+    values:
+      layout: transcript
+      book: "The Holy Dwelling"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book5-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book5"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book6
+    values:
+      layout: transcript
+      book: "The Divine Relationship"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book6-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book6"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book7
+    values:
+      layout: transcript
+      book: "The Way of Being"
+      publisher: "Choose Only Love"
+      image: "/t/col/public/img/col/book7-big.jpg"
+      image-width: 612
+      image-height: 918
+      bid: "book7"
+      audio: false
+
 exclude: [
-  bin, moved.html, deploy, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
+  bin, moved.html, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
 ]
 

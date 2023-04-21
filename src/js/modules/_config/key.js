@@ -366,8 +366,8 @@ function describeKey(key) {
     key: key,
     source: si.sid,
     book: decodedKey.bookId,
-    unit: si.contents[decodedKey.bookId][decodedKey.uid],
-    subunit: si.contents[`${decodedKey.bookId}2`][decodedKey.xid]
+    unit: si.contents[decodedKey.bookId][decodedKey.uid]
+    //subunit: si.contents[`${decodedKey.bookId}2`][decodedKey.xid]
   };
 
   if (decodedKey.pid > -1) {

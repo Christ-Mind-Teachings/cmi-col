@@ -12,11 +12,24 @@
 
   {% include common/load-open-graph.html %}
 
-  {% if site.environment == "standalone" %}
-    {% include common/transcript-css.html type="standalone" %}
-  {% else %}
-    {% include common/transcript-css.html type="integration" %}
+  <link rel="stylesheet" href="/public/css/{{site.semantic}}/semantic.css">
+  {% if page.audio != false %}
+    <!-- include audio css support -->
+    <link rel="stylesheet" href="/public/vendor/audio/css/mediaelementplayer.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/capture.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/jump-forward.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/nextp.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/prevp.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/ptoggle.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/skip-back.css"></script>
+    <link rel="stylesheet" href="/public/vendor/audio/css/speed.css"></script>
   {% endif %}
+  <link rel="stylesheet" href="/public/css/toastr.css">
+  <link rel="stylesheet" href="/public/css/cmi.css">
+  <link rel="stylesheet" href="/public/css/transcript.css">
+  <link rel="stylesheet" href="/t/col/public/css/wom.css">
+  <link rel="stylesheet" href="/public/css/driver.min.css">
+
   {% include favicon/cmi.html %}
 
 </head>
@@ -84,12 +97,24 @@
     {% include components/email-share-dialog.html %}
   {% endif %}
   <div class="fixed" id="netlify-modal"></div>
+
   {% include common/javascript.html %}
-  {% if site.environment == "standalone" %}
-    {% include common/transcript-js.html type="standalone" %}
+
+  <script src="/public/vendor/jquery/jquery.min.js"></script>
+  <script src="/public/vendor/{{site.semantic}}/semantic.min.js"></script>
+  {% if jekyll.environment == "production" %}
+    <!-- COL transcript Webpack production ({{site.semantic}})  -->
+    <script src="/t/col/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/col/public/js/vendors~transcript.js"></script>
+    <script src="/t/col/public/js/transcript.js"></script>
   {% else %}
-    {% include common/transcript-js.html type="integration" %}
+    <!-- COL transcript Webpack development ({{site.semantic}})  -->
+    <script src="/t/col/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/col/public/js/vendors~transcript.js"></script>
+    <script src="/t/col/public/js/page~transcript.js"></script>
+    <script src="/t/col/public/js/transcript.js"></script>
   {% endif %}
+
 </body>
 
 </html>

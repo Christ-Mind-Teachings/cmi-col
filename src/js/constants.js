@@ -3,28 +3,26 @@
 */
 
 const keyInfo = require("./modules/_config/key");
-import {getPageInfo} from "./modules/_config/config";
+import {getReservation, getAudioInfo, getPageInfo} from "./modules/_config/config";
 
 let env = "integration";
 let sid = "col";
 let lang = "en";
 let title = "Choose Only Love";
-let bucket = "assets.christmind.info";
+const HOME_URI = `/t/${sid}`;
 
 export default {
   env: env,
   lang: lang,
   sid: sid,
   title: title,
-  url_prefix: `/t/${sid}`,                  //navigator
-  getPageInfo: getPageInfo,              //list
+  url_prefix: HOME_URI,
+  configUrl: `${HOME_URI}/public/config`,
+  getPageInfo: getPageInfo,
   keyInfo: keyInfo,
   sourceId: 17,
-  xquoteManagerId: "3f7f14c0d7a13eb2e5a05f3c981f33fb",
   quoteManagerId: "05399539cca9ac38db6db36f5c770ff1",
   quoteManagerName: "CMI",
-  audioBase: `https://s3.amazonaws.com/${bucket}/${sid}/audio`,
-  searchEndpoint: `https://d9lsdwxpfg.execute-api.us-east-1.amazonaws.com/latest/${sid}`,
   store: {
     bmList: "bm.list",
     bmCreation: "bm.creation",

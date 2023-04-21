@@ -11,11 +11,13 @@
   <title>{{page.title}}</title>
 
   {% include common/load-open-graph.html %}
-  {% if site.environment == "standalone" %}
-    {% include common/page-css.html type="standalone" %}
-  {% else %}
-    {% include common/page-css.html type="integration" %}
-  {% endif %}
+
+  <!-- CSS for production -->
+  <link rel="stylesheet" href="/public/css/{{site.semantic}}/semantic.css">
+  <link rel="stylesheet" href="/public/css/cmi.css">
+  <link rel="stylesheet" href="/public/css/driver.min.css">
+  <link rel="stylesheet" href="/t/col/public/css/wom.css">
+
   {% include favicon/cmi.html %}
 
 </head>
@@ -43,11 +45,19 @@
   </div>
   <div class="fixed" id="netlify-modal"></div>
 
-  {% if site.environment == "standalone" %}
-    {% include common/page-js.html type="standalone" %}
+  <script src="/public/vendor/jquery/jquery.min.js"></script>
+  <script src="/public/vendor/{{site.semantic}}/semantic.min.js"></script>
+  {% if jekyll.environment == "production" %}
+    <!-- COL page Webpack production ({{site.semantic}})  -->
+    <script src="/t/col/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/col/public/js/page.js"></script>
   {% else %}
-    {% include common/page-js.html type="integration" %}
+    <!-- COL page Webpack development ({{site.semantic}})  -->
+    <script src="/t/col/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/col/public/js/page~transcript.js"></script>
+    <script src="/t/col/public/js/page.js"></script>
   {% endif %}
+
 </body>
 
 </html>
