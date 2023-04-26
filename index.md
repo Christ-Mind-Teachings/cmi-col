@@ -78,7 +78,7 @@ All seven volumes of Choose Only Love are now available!
   </div>
   <div class="ui three cards">
     <div class="card">
-      <a id="book-one" href="#" data-book="book1" class="toc-modal-open image">
+      <a id="book-one" href="#" data-book="book1" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book1-big.jpg">
         {% else %}
@@ -92,7 +92,7 @@ All seven volumes of Choose Only Love are now available!
       </div>
     </div>
     <div class="card">
-      <a id="book-two" href="#" data-book="book2" class="toc-modal-open image">
+      <a id="book-two" href="#" data-book="book2" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book2-big.jpg">
         {% else %}
@@ -106,7 +106,7 @@ All seven volumes of Choose Only Love are now available!
       </div>
     </div>
     <div class="card">
-      <a id="book-three" href="#" data-book="book3" class="toc-modal-open image">
+      <a id="book-three" href="#" data-book="book3" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book3-big.jpg">
         {% else %}
@@ -122,7 +122,7 @@ All seven volumes of Choose Only Love are now available!
   </div>
   <div class="ui three cards">
     <div class="card">
-      <a id="book-four" href="#" data-book="book4" class="toc-modal-open image">
+      <a id="book-four" href="#" data-book="book4" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book4-big.jpg">
         {% else %}
@@ -136,7 +136,7 @@ All seven volumes of Choose Only Love are now available!
       </div>
     </div>
     <div class="card">
-      <a id="book-five" href="#" data-book="book5" class="toc-modal-open image">
+      <a id="book-five" href="#" data-book="book5" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book5-big.jpg">
         {% else %}
@@ -150,7 +150,7 @@ All seven volumes of Choose Only Love are now available!
       </div>
     </div>
     <div class="card">
-      <a id="book-six" href="#" data-book="book6" class="toc-modal-open image">
+      <a id="book-six" href="#" data-book="book6" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book6-big.jpg">
         {% else %}
@@ -164,7 +164,7 @@ All seven volumes of Choose Only Love are now available!
       </div>
     </div>
     <div class="card">
-      <a id="book-seven" href="#" data-book="book7" class="toc-modal-open image">
+      <a id="book-seven" href="#" data-book="book7" animate class="toc-modal-open image">
         {% if site.environment == "standalone" %}
           <img src="/public/img/col/book7-big.jpg">
         {% else %}
